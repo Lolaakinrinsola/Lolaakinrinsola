@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ololade Akinrinsola 
-- 👀 I’m interested in building user's interfaces for websites using html, css and JavaScript 
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on any front end projects
+- 👀 I’m interested in building user's interfaces for websites using React, Tailwind and NextJS 
+- 🌱 I’m currently learning node js, Mongodb and express
+- 💞️ I’m looking to collaborate on any frontend project
 - 📫 How to reach me @ololadeakinrinsola@gmail.com
 
 <!---
